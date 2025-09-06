@@ -1,10 +1,10 @@
-package WeMasterTrade.pages.login.steps;
+package WeMasterTrade.pages.commonsteps;
 
 import WeMasterTrade.utils.Sleeps;
 import WeMasterTrade.utils.WebUI;
 import org.openqa.selenium.By;
 
-public class LoginSteps {
+public class LoginStep {
 
 
 

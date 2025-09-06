@@ -1,12 +1,12 @@
 package WeMasterTrade.pages.login;
 
 import WeMasterTrade.data.Environment;
-import WeMasterTrade.pages.login.steps.LoginSteps;
+import WeMasterTrade.pages.commonsteps.LoginStep;
 import org.openqa.selenium.By;
 
 
 public class LoginPage {
-    LoginSteps loginSteps;
+    LoginStep loginSteps;
 
 
     By userName = By.xpath("//input[@id='user_login']");
@@ -18,7 +18,7 @@ public class LoginPage {
 
     public void login(Environment env)
     {
-        loginSteps = new LoginSteps();
+        loginSteps = new LoginStep();
 
         loginSteps.login(env.getUrl(),
                 userName,env.getUsername(),

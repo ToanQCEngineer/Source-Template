@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7ce7c14-6ea8-4dad-9837-5058a5d3c0ee" name="Changes" comment="" />
+    <list default="true" id="e7ce7c14-6ea8-4dad-9837-5058a5d3c0ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/paymentmethods/GateawayCryptoChillPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/login/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/login/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/login/locators/bo/GatewayLocatorsBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/locators/systembo/GatewayLocatorsBO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/login/locators/bo/MenuLocatorBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/locators/systembo/MenuLocatorBO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/login/locators/bo/PaymentsLocatorBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/locators/systembo/PaymentsLocatorBO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/login/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/commonsteps/LoginStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/login/steps/PaymentSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/commonsteps/PaymentStep.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -1,4 +1,4 @@
-package WeMasterTrade.pages.login.locators.bo;
+package WeMasterTrade.pages.locators.systembo;
 
 import org.openqa.selenium.By;
 
