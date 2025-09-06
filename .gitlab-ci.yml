@@ -1,0 +1,30 @@
+stages:
+  - build
+  - test
+  - deploy
+
+cache: # <= Dùng để lưu các thư viện đã tải về sau khi job kết thức và sử dụng cho lần sau.(giảm Tgian build/test)
+  paths:
+    - .m2/repository
+
+build_job:
+  stage: build
+  script:
+    - echo "build_job"
+
+test_job:
+  image: registry.cads.live/cads/base/automation-tesing-cads-house:v1.0 # <= Cài Để chạy câu lệnh Selenium/TestNG
+  variables: # <= mvn set proxy env variable
+    MAVEN_OPTS: "-Dhttp.proxyHost=proxy.hcm.fpt.vn -Dhttp.proxyPort=80 -Dhttps.proxyHost=proxy.hcm.fpt.vn -Dhttps.proxyPort=80 -Dhttp.nonProxyHosts=localhost|127.0.0.1|172.27.11.*|*.bigdata.local|*.cads.live"
+    _JAVA_OPTIONS: "-Dwebdriver.chrome.driver=/usr/local/bin/chromedriver"
+  stage: test
+  script:
+    - echo "test_job"
+    - echo $MAVEN_OPTS
+    - mvn clean test # => Câu lệnh Selenium/TestNG => Tạo 1 file logs
+    #- Mov file logs 
+
+deploy_job:
+  stage: deploy
+  script:
+    - echo "deploy_job"
