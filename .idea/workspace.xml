@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7ce7c14-6ea8-4dad-9837-5058a5d3c0ee" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.gitlab-ci.yml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/README.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/WeMasterTrade/reports/ExtentReportManager.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/WeMasterTrade/reports/ExtentTestManager.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/WeMasterTrade/utils/WebUI.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/WeMasterTrade/base/BaseTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/loginpages/LoginPage.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2qHYgMJvZVfhVIeIn3Kb4MLGF9D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowTabnine Chat.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/AutomationTesting/FPT_FCI/src/main/java/cads/house&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AutomationTesting\FPT_FCI\src\main\java\cads\house" />
+      <recent name="C:\AutomationTesting\FPT_FCI\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cads.house.pages.ticketpages.ticketsteps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest">
+    <configuration name="LoginPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeMasterTrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WeMasterTrade.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WeMasterTrade.pages.loginpages" />
+      <option name="MAIN_CLASS_NAME" value="WeMasterTrade.pages.login.LoginPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeMasterTrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WeMasterTrade.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WeMasterTrade.pages.loginpages" />
+      <option name="MAIN_CLASS_NAME" value="WeMasterTrade.pages.login.LoginPage" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeMasterTrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WeMasterTrade.tests.ui.logintest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WeMasterTrade.tests.ui.logintest" />
+      <option name="MAIN_CLASS_NAME" value="WeMasterTrade.tests.ui.logintest.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketAutoFFCExPCADSTest.ticketFxxL0TaoL1Duyet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeMasterTrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cads.house.tests.tickettests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cads.house.tests.tickettests" />
+      <option name="MAIN_CLASS_NAME" value="cads.house.tests.tickettests.TicketAutoFFCExPCADSTest" />
+      <option name="METHOD_NAME" value="ticketFxxL0TaoL1Duyet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketAutoFFCExPCADSTest.ticketL0TaoL1AvaBDuyetL2vaL3BTHTuChoi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeMasterTrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cads.house.tests.tickettests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cads.house.tests.tickettests" />
+      <option name="MAIN_CLASS_NAME" value="cads.house.tests.tickettests.TicketAutoFFCExPCADSTest" />
+      <option name="METHOD_NAME" value="ticketL0TaoL1AvaBDuyetL2vaL3BTHTuChoi" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginPage" />
+        <item itemvalue="TestNG.LoginPage.login" />
+        <item itemvalue="TestNG.TicketAutoFFCExPCADSTest.ticketL0TaoL1AvaBDuyetL2vaL3BTHTuChoi" />
+        <item itemvalue="TestNG.TicketAutoFFCExPCADSTest.ticketFxxL0TaoL1Duyet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7ce7c14-6ea8-4dad-9837-5058a5d3c0ee" name="Changes" comment="" />
+      <created>1734321078182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734321078182</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="docker-compose.yaml" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FPT_FCI$TestLoginPage.ic" NAME="TestLoginPage Coverage Results" MODIFIED="1735031003045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cads.house.Testcase.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/FPT_FCI$TicketAutoFFCExPCADSTest_ticketL0TaoL1AvaBDuyetL2vaL3BTHTuChoi.ic" NAME="TicketAutoFFCExPCADSTest.ticketL0TaoL1AvaBDuyetL2vaL3BTHTuChoi Coverage Results" MODIFIED="1749115295633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cads.house.tests.tickettests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
