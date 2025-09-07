@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7ce7c14-6ea8-4dad-9837-5058a5d3c0ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/commonsteps/PaymentsBuider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/suites/Payment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/model/pojo/PaymentPOJO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/commonsteps/PaymentStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/commonsteps/PaymentStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/paymentmethods/GateawayCryptoChillPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/paymentmethods/LogoAndName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/tests/ui/logintest/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/tests/ui/logins/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/commonsteps/PaymentsBuider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/paymentmethods/LogoAndName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WeMasterTrade/pages/paymentmethods/LogoAndName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

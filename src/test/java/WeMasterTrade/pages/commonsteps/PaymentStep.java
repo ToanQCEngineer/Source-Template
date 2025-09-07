@@ -1,5 +1,7 @@
 package WeMasterTrade.pages.commonsteps;
 
+import WeMasterTrade.pages.model.pojo.PaymentPOJO;
+import WeMasterTrade.utils.LoggerUtils;
 import WeMasterTrade.utils.WebUI;
 import org.openqa.selenium.By;
 
@@ -12,29 +14,5 @@ public class PaymentStep {
         WebUI.clickElement(tabLocator);
         WebUI.clickElement(btnLocator);
     }
-
-    public void fieldAddNewLogoAndName ()
-    {
-
-
-    }
-//    public void fieldAddNewLogoAndName (By drdListLocator, By optLocator )
-//    {
-//        WebUI.clickElement(drdListLocator);
-//        WebUI.clickElement(optLocator);
-//
-//    }
-//    public void fieldAddNewLogoAndName (By thenameLocator, String value )
-//    {
-//        WebUI.setText(thenameLocator, value);
-//    }
-//
-//    public void fieldAddNewLogoAndName (By drdListLocator, By optLocator, By thenameLocator, String value )
-//    {
-//        WebUI.clickElement(drdListLocator);
-//        WebUI.clickElement(optLocator);
-//        WebUI.setText(thenameLocator, value);
-//    }
-
 
 }
