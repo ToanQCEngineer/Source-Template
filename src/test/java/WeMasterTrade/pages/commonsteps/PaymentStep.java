@@ -18,17 +18,23 @@ public class PaymentStep {
 
 
     }
-
-    public void fieldAddNewLogoAndName (By fieldLocator, String filedValue )
-    {
-        WebUI.setText(fieldLocator, filedValue);
-    }
-
-    public void fieldAddNewLogoAndName (By fieldLocator, String filedValue, By fieldLocator1, String filedValue1 )
-    {
-        WebUI.setText(fieldLocator, filedValue);
-        WebUI.setText(fieldLocator1, filedValue1);
-    }
+//    public void fieldAddNewLogoAndName (By drdListLocator, By optLocator )
+//    {
+//        WebUI.clickElement(drdListLocator);
+//        WebUI.clickElement(optLocator);
+//
+//    }
+//    public void fieldAddNewLogoAndName (By thenameLocator, String value )
+//    {
+//        WebUI.setText(thenameLocator, value);
+//    }
+//
+//    public void fieldAddNewLogoAndName (By drdListLocator, By optLocator, By thenameLocator, String value )
+//    {
+//        WebUI.clickElement(drdListLocator);
+//        WebUI.clickElement(optLocator);
+//        WebUI.setText(thenameLocator, value);
+//    }
 
 
 }

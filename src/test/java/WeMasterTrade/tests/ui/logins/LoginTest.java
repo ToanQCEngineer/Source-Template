@@ -1,4 +1,4 @@
-package WeMasterTrade.tests.ui.logintest;
+package WeMasterTrade.tests.ui.logins;
 
 import WeMasterTrade.base.BaseTest;
 import WeMasterTrade.data.Environment;
